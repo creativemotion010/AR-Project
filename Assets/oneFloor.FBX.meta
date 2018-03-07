@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 9824cdc271c998e42add0e2c89e5de0f
+timeCreated: 1518718674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bedroom3Floor
+    100002: Bedroom4Floor
+    100004: Door
+    100006: DoorFrames
+    100008: DoorHandle
+    100010: DoorKnob
+    100012: DoorKnob 1
+    100014: Doors_358W_A
+    100016: DrawingRoomFloor
+    100018: DuctWalls
+    100020: Exterior
+    100022: Exterior_Misc1
+    100024: Exterior_Misc4
+    100026: FF_Floor
+    100028: GF_01
+    100030: GF_Exterior
+    100032: GF_Floor
+    100034: GF_Room_1_358W
+    100036: GF_Room_2_358W
+    100038: GF_Room_3_358W
+    100040: GF_Room_4_358W
+    100042: GF_WhiteWalls
+    100044: Group001
+    100046: GuestBedroomFloor
+    100048: KitchenFloor
+    100050: Left_Ducts_Ledges_358W
+    100052: LivingRoomFloor
+    100054: LoungeFloor
+    100056: LoungeFloorPiece
+    100058: MainDoor
+    100060: MasterBedroomFloor
+    100062: Misc_01
+    100064: MISC_GroundOut_358W
+    100066: Misc_Walls_1_358W
+    100068: NewDoorFrame
+    100070: //RootNode
+    100072: StairCase
+    100074: StaircaseMetals
+    100076: TerraceDoor
+    100078: W358_FF_Floor
+    100080: W358_Floors
+    100082: W358_GF_Floor
+    100084: W358_Stairs
+    100086: W358_Walls_Stairs
+    100088: W_358_BackDoorsWood
+    100090: Wood_Steps_358W
+    400000: Bedroom3Floor
+    400002: Bedroom4Floor
+    400004: Door
+    400006: DoorFrames
+    400008: DoorHandle
+    400010: DoorKnob
+    400012: DoorKnob 1
+    400014: Doors_358W_A
+    400016: DrawingRoomFloor
+    400018: DuctWalls
+    400020: Exterior
+    400022: Exterior_Misc1
+    400024: Exterior_Misc4
+    400026: FF_Floor
+    400028: GF_01
+    400030: GF_Exterior
+    400032: GF_Floor
+    400034: GF_Room_1_358W
+    400036: GF_Room_2_358W
+    400038: GF_Room_3_358W
+    400040: GF_Room_4_358W
+    400042: GF_WhiteWalls
+    400044: Group001
+    400046: GuestBedroomFloor
+    400048: KitchenFloor
+    400050: Left_Ducts_Ledges_358W
+    400052: LivingRoomFloor
+    400054: LoungeFloor
+    400056: LoungeFloorPiece
+    400058: MainDoor
+    400060: MasterBedroomFloor
+    400062: Misc_01
+    400064: MISC_GroundOut_358W
+    400066: Misc_Walls_1_358W
+    400068: NewDoorFrame
+    400070: //RootNode
+    400072: StairCase
+    400074: StaircaseMetals
+    400076: TerraceDoor
+    400078: W358_FF_Floor
+    400080: W358_Floors
+    400082: W358_GF_Floor
+    400084: W358_Stairs
+    400086: W358_Walls_Stairs
+    400088: W_358_BackDoorsWood
+    400090: Wood_Steps_358W
+    2100000: lambert1
+    2300000: Bedroom3Floor
+    2300002: Bedroom4Floor
+    2300004: Door
+    2300006: DoorFrames
+    2300008: DoorHandle
+    2300010: DoorKnob
+    2300012: DoorKnob 1
+    2300014: DrawingRoomFloor
+    2300016: DuctWalls
+    2300018: Exterior_Misc1
+    2300020: Exterior_Misc4
+    2300022: FF_Floor
+    2300024: GF_Exterior
+    2300026: GF_Floor
+    2300028: GF_Room_1_358W
+    2300030: GF_Room_2_358W
+    2300032: GF_Room_3_358W
+    2300034: GF_Room_4_358W
+    2300036: GF_WhiteWalls
+    2300038: GuestBedroomFloor
+    2300040: KitchenFloor
+    2300042: Left_Ducts_Ledges_358W
+    2300044: LivingRoomFloor
+    2300046: LoungeFloor
+    2300048: LoungeFloorPiece
+    2300050: MainDoor
+    2300052: MasterBedroomFloor
+    2300054: MISC_GroundOut_358W
+    2300056: Misc_Walls_1_358W
+    2300058: NewDoorFrame
+    2300060: StaircaseMetals
+    2300062: TerraceDoor
+    2300064: W358_Stairs
+    2300066: W_358_BackDoorsWood
+    2300068: Wood_Steps_358W
+    3300000: Bedroom3Floor
+    3300002: Bedroom4Floor
+    3300004: Door
+    3300006: DoorFrames
+    3300008: DoorHandle
+    3300010: DoorKnob
+    3300012: DoorKnob 1
+    3300014: DrawingRoomFloor
+    3300016: DuctWalls
+    3300018: Exterior_Misc1
+    3300020: Exterior_Misc4
+    3300022: FF_Floor
+    3300024: GF_Exterior
+    3300026: GF_Floor
+    3300028: GF_Room_1_358W
+    3300030: GF_Room_2_358W
+    3300032: GF_Room_3_358W
+    3300034: GF_Room_4_358W
+    3300036: GF_WhiteWalls
+    3300038: GuestBedroomFloor
+    3300040: KitchenFloor
+    3300042: Left_Ducts_Ledges_358W
+    3300044: LivingRoomFloor
+    3300046: LoungeFloor
+    3300048: LoungeFloorPiece
+    3300050: MainDoor
+    3300052: MasterBedroomFloor
+    3300054: MISC_GroundOut_358W
+    3300056: Misc_Walls_1_358W
+    3300058: NewDoorFrame
+    3300060: StaircaseMetals
+    3300062: TerraceDoor
+    3300064: W358_Stairs
+    3300066: W_358_BackDoorsWood
+    3300068: Wood_Steps_358W
+    4300000: Left_Ducts_Ledges_358W
+    4300002: Exterior_Misc1
+    4300004: Exterior_Misc4
+    4300006: GF_Exterior
+    4300008: Wood_Steps_358W
+    4300010: W_358_BackDoorsWood
+    4300012: GF_Room_1_358W
+    4300014: GF_Room_2_358W
+    4300016: GF_Room_3_358W
+    4300018: GF_Room_4_358W
+    4300020: MISC_GroundOut_358W
+    4300022: Misc_Walls_1_358W
+    4300024: MainDoor
+    4300026: DoorHandle
+    4300028: DoorFrames
+    4300030: TerraceDoor
+    4300032: DoorKnob
+    4300034: Door
+    4300036: DoorKnob
+    4300038: NewDoorFrame
+    4300040: DrawingRoomFloor
+    4300042: GF_Floor
+    4300044: KitchenFloor
+    4300046: LivingRoomFloor
+    4300048: GuestBedroomFloor
+    4300050: FF_Floor
+    4300052: LoungeFloorPiece
+    4300054: MasterBedroomFloor
+    4300056: LoungeFloor
+    4300058: Bedroom4Floor
+    4300060: Bedroom3Floor
+    4300062: GF_WhiteWalls
+    4300064: DuctWalls
+    4300066: W358_Stairs
+    4300068: StaircaseMetals
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
